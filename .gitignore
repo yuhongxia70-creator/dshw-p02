@@ -7,17 +7,17 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
-*.ipynb
+.ipynb
 
-# 数据文件（太大不上传）
-*.csv
-*.xlsx
-*.xls
+# 数据文件
+.csv
+.xlsx
+.xls
 *.db
-*.parquet
+.parquet
 
 # 图片输出
-output/*.png
+output/.png
 
 # 日志
 *.log
