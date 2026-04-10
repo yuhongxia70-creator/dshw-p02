@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# 数据文件（太大不上传）
+*.csv
+*.xlsx
+*.xls
+*.db
+*.parquet
+
+# 图片输出
+output/*.png
+
+# 日志
+*.log
+download_log.txt
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
