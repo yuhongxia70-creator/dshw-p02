@@ -171,7 +171,7 @@ $$r_{i,t} - r_f = \alpha_i + \beta_i (r_{m,t} - r_f) + \varepsilon_{i,t}$$
 ---
 
 ## 六、项目文件结构
-项目文件夹/
+```项目文件夹/
 ├── README.md # 项目说明（本文件）
 ├── report.html # 分析报告（HTML格式）
 ├── .gitignore
@@ -209,7 +209,7 @@ $$r_{i,t} - r_f = \alpha_i + \beta_i (r_{m,t} - r_f) + \varepsilon_{i,t}$$
 │ ├── capm_analysis_report.txt
 │ └── ...
 └── requirements.txt # 依赖库列表
-
+```
 ---
 
 ## 七、如何运行
@@ -240,14 +240,14 @@ pip install -r requirements.txt
 
 ## 九、GitHub 仓库
 
-https://github.com/yuhongxia70-creator/dshw-p01
+https://github.com/yuhongxia70-creator/dshw-p02
 
 ## 十、参考文献
 
 - Sharpe, W. F. (1964). Capital asset prices: A theory of market equilibrium under conditions of risk. Journal of Finance, 19(3), 425-442.
 - Fama, E. F., & French, K. R. (2004). The capital asset pricing model: Theory and evidence. Journal of Economic Perspectives, 18(3), 25-46.
 - baostock 官方文档：http://baostock.com/
-- akshare 官方文档：https://www.akshare.xyz/
+- akshare 官方文档：[https://akshare.akfamily.xyz/](https://akshare.akfamily.xyz/)
 
 生成时间：2026年4月9日
 作者：夏雨虹
